@@ -13,7 +13,7 @@ git clone https://github.com/ritikadm/avito-tests.git
 
 Перейдите в папку проекта:
 ```bash
-cd selenide-tests
+cd avito-tests
 ```
 Установите зависимости с помощью Maven:
 ```bash
